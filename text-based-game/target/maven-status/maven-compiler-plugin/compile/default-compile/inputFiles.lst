@@ -1,1 +1,16 @@
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/gameObject/GameObject.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/ui/UserInput.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/managers/GameManager.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/ui/OutputDisplay.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/gameObject/Room.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/managers/World.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/domain/Output.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/ui/StartScreen.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/gameObject/NPC.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/gameObject/Item.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/managers/GUI.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/ui/PauseScreen.java
 /Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/App.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/ui/GameScreen.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/ui/Screen.java
+/Users/azhang/Repos/java-maven-app/text-based-game/src/main/java/com/andrewzhang/projects/gameObject/Player.java

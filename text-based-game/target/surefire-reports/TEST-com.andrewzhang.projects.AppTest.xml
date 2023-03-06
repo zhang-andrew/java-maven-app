@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="AU"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/azhang/Repos/java-maven-app/text-based-game/target/surefire/surefirebooter-20230306153136719_3.jar /Users/azhang/Repos/java-maven-app/text-based-game/target/surefire 2023-03-06T15-31-36_538-jvmRun1 surefire-20230306153136719_1tmp surefire_0-20230306153136719_2tmp"/>
+    <property name="sun.java.command" value="/Users/azhang/Repos/java-maven-app/text-based-game/target/surefire/surefirebooter-20230306162031487_3.jar /Users/azhang/Repos/java-maven-app/text-based-game/target/surefire 2023-03-06T16-20-31_302-jvmRun1 surefire-20230306162031487_1tmp surefire_0-20230306162031487_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/azhang/Repos/java-maven-app/text-based-game/target/test-classes:/Users/azhang/Repos/java-maven-app/text-based-game/target/classes:/Users/azhang/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/azhang/Repos/java-maven-app/text-based-game/target/surefire/surefirebooter-20230306153136719_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/azhang/Repos/java-maven-app/text-based-game/target/surefire/surefirebooter-20230306162031487_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.6+9-LTS-190"/>
